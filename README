@@ -31,7 +31,7 @@ docker-compose.yml.txt
   --Quickstart: Compose and Rails
     https://docs.docker.com/compose/rails/
 
-Dockerfile.txt
+Dockerfile/
   The Dockerfile defines "exactly what needs to be included in the container."   
   --Quickstart: Compose and Rails
     https://docs.docker.com/compose/rails/
